@@ -1,0 +1,11 @@
+button {
+    outline: none;
+    margin: 10px;
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(139, 33, 33);
+}
+
+body {
+    align-items: center;
+}
